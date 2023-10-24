@@ -13,6 +13,7 @@ export default {
       '2xl': ['24px', '29.26px'],
       '3xl': ['28px', '50px'],
       '4xl': ['48px', '58px'],
+      '7xl': ['85px', '95px'],
       '8xl': ['96px', '106px']
     },
     extend: {

@@ -2,7 +2,7 @@ import React from 'react';
 
 function App() {
     return (
-        <div>
+        <div className="flex justify-center items-center h-screen font-lora text-8xl bg-primary">
             <h1>Hello, Deleted!</h1>
         </div>
     );
