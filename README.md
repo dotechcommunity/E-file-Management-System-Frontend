@@ -32,7 +32,7 @@ Follow these steps to get started with FileManager:
 
 4. **Run the Application**: Use `npm start` or `yarn start` to start the FileManager application.
 
-5. **Access the Application**: Open your web browser and navigate to `http://localhost:3000` (or the specified port) to access FileManager.
+5. **Access the Application**: Open your web browser and navigate to `http://localhost:5173` (or the specified port) to access FileManager.
 
 ## Contributing
 
@@ -59,7 +59,7 @@ FileManager is open-source software released under the [MIT License](LICENSE). Y
 If you have any questions, suggestions, or encounter issues, please feel free to contact us:
 
 - Email: [dotechcommunity@gmail.com](mailto:dotechcommunity@gmail.com)
-- Issue Tracker: [GitHub Issues](https://github.com/dotechcommunity//e-file-management-frontend/issues)
+- Issue Tracker: [GitHub Issues](https://github.com/dotechcommunity/E-file-Management-System-Frontend/issues)
 
 ## Acknowledgments
 
